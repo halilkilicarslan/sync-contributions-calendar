@@ -1,4 +1,4 @@
-# sync-contributions-calendar
+# sync-contributions-calendar.
 
 Merge your Gitlab's public contributions calendar to your Github contributions calendar
 
